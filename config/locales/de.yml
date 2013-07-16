@@ -16,3 +16,21 @@ de:
   stuff_to_do_label_filter_by: Filtern nach...
   stuff_to_do_drag_issue_create_list: Ticket hierher ziehen, um eine neue Liste zu erstellen.
   stuff_to_do_drag_issue_remove_list: Ticket hierher ziehen, um das Element von einer Liste zu löschen.
+  stuff_to_do_use_as_stuff_to_do: als 'todos' verwenden
+  stuff_to_do_time_grid: "Zeitübersicht"
+  stuff_to_do_time_grid_save_error: "{{count}} Zeiterfassungen konnten nicht gespeichert werden"
+  stuff_to_do_time_grid_save_notice: "{{count}} Zeiterfassungen  gespeichert."
+  stuff_to_do_use_time_grid: "Zeitübersicht verwenden"
+  field_stuff_to_do_enabled: "Todo Modul aktivieren"
+  stuff_to_do_add_to_front: "in den Vordergrund"
+  stuff_to_do_add_to_back: "in den Hintergrund"
+  stuff_to_do_remove: "entfernen"
+  stuff_to_do_reportee: "Reporter"
+  stuff_to_do_reportees: "Reporter" 
+  stuff_to_do_reportees_for: "Reporter für: " 
+  stuff_to_do_cannot_create_reportee_error: "Reporter kann nicht gespeichert werden"
+  stuff_to_do_manage_reportees: "Reporter verwalten"
+  stuff_to_do_reportee_new: "Reporter anlegen"
+  field_stuff_to_do_view_all_reportees: "Reporter anzeigen"
+  stuff_to_do_issue_unathorized: "Sie haben keine Berechtigung zur Anzeige des Tickets."
+  stuff_to_do_project_unathorized: "Sie haben keine Berechtigung zur Anzeige des Projekts."
